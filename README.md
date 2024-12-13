@@ -5,7 +5,7 @@
 
 ## Hackathon Project Overview
 
-Agent BABA is an AI-powered market maker designed to provide liquidity for African tokens on Solana, starting with $BABABILL. Our goal is to demonstrate how AI can enhance DeFi accessibility in emerging markets.
+Agent BABA is an AI-powered market maker designed to provide liquidity for African tokens on Solana, starting with [$BABABILL](https://www.bababill.com). Our goal is to demonstrate how AI can enhance DeFi accessibility in emerging markets.
 
 ### 🎯 Project Goals
 
