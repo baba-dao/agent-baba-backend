@@ -98,7 +98,7 @@ We're looking for two skilled developers to join our hackathon team:
 
 ## 🛠️ Immediate TODOs
 
-1. Implement TensorFlow.js models for price prediction
+1. Implement models for price prediction
 2. Add cross-pool arbitrage detection
 3. Create position sizing optimization
 4. Build real-time analytics dashboard
